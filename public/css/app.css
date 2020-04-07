@@ -1,0 +1,23 @@
+body {
+  background-color: #008cff;
+}
+
+h1 {
+  color: darkred;
+}
+
+hr {
+  color: darkred;
+}
+
+footer {
+  color: darkred;
+}
+
+.danger{
+    color: red;
+}
+
+.title{
+    text-decoration: underline;
+}
